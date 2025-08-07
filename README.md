@@ -1,9 +1,9 @@
 # odin-recipes
-first html project 
+First HTML Project
 
-in this project i will be showcasing my html skills by creating a basic recipe website 
+In this project, I will be showcasing my HTML skills by creating a basic recipe website.
 
-For now the site won't be too pretty as it will maingly be html however will be coming back to this proejct incropating css to enhace user experince
+For now, the site won't be too pretty, as it will mainly be HTML. However, I will be coming back to this project to incorporate CSS and enhance the user experience.
 
-Cheers! 
+Cheers!
 Ken
